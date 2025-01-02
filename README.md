@@ -8,6 +8,8 @@ Include a list of the tools used in the project:
 1. Jupyter Notebook
 2. MySQL
 3. Matplotlib
-4. <a class="anchor" id="contact"></a>
+
 >## Contact Information
 https://www.linkedin.com/in/prabhu-ramaswamy-55677b8/
+
+![Logo](image1.png)
